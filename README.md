@@ -1,6 +1,8 @@
-<h4 align="center">VoeAirlines</h4>
+<h1 align="center">VoeAirlines</h1>
 
-![FrontEnd](https://img.shields.io/badge/Tecnologia-HTML%205-blue)
+>Projeto Final - Senai Taguatinga C#
+
+<h3 align="center">Tecnologias Utilizadas</h3>
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
